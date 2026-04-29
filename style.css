@@ -820,6 +820,17 @@ nav {
     margin-bottom: 0;
 }
 
+.certification-content ul {
+    padding-left: 18px;
+    margin-top: 8px;
+}
+
+.certification-content li {
+    margin-bottom: 5px;
+    font-size: 14px;
+    color: #ccc;
+}
+
 /* ====================
    Achievements Section
    ==================== */
